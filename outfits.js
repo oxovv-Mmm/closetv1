@@ -222,5 +222,37 @@ window.outfits = [
         text: "dark fantasy mountain landscape,massive full moon,mist-covered pine forest below,ancient ruins,a pack of wolves in the distance,strong wind,dark clouds,moonlight,floating glowing particles,epic fantasy atmosphere,extremely detailed background"
       }
     ]
+  },
+
+    {
+    id: "work-008",
+    name: "🦇⚔️",
+    category: "女の子",
+    description: "vanpaia",
+    image: "vanpaia.PNG",
+
+    clothes: [
+      {
+        title: "female vampire hunter outfit",
+        model: "SDXL",
+        text: "female vampire hunter outfit,gothic fantasy hunter fashion,black, dark red, and silver color palette,fitted corset,high collar,long asymmetrical coat,layered short skirt,leather belts,lace details,cross-shaped accessories,silver buckles,fingerless gloves,thigh-high boots,weapon holsters,flowing cape,elegant and dangerous,extremely detailed gothic fantasy clothing"
+      }
+    ],
+
+    composition: [
+      {
+        title: "standing on a gothic rooftop",
+        model: "SDXL",
+        text: "full body,standing on a gothic rooftop,holding a long ornate weapon behind her shoulder,body slightly turned,looking back toward the viewer,long coat and cape blowing in the wind,one foot placed on the edge of the rooftop,confident expression,dramatic low angle,cinematic composition"
+      }
+    ],
+
+    background: [
+      {
+        title: "dark gothic city at night",
+        model: "SDXL",
+        text: "dark gothic city at night,massive full moon,ancient cathedral,fog-covered streets,glowing windows,bats flying through the sky,dark clouds,moonlight,dramatic gothic atmosphere,extremely detailed background"
+      }
+    ]
   }
 ];
