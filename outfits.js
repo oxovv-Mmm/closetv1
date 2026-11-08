@@ -638,5 +638,22 @@ window.outfits = [
         text: "towering futuristic city at night, enormous holographic skyline, distant neon lights, rain particles, floating targeting grids, dark violet atmosphere, cinematic moonlight, futuristic FPS character introduction screen"
       }
     ]
+  },
+
+    {
+    id: "work-010",
+    name: "🐈🎀",
+    category: "男の子",
+    description: "🩵好きに色変えてね🤍",
+    image: "nyan.png",
+
+    clothes: [
+      {
+        title: "white and pastel pink elegant prince outfit",
+        model: "SDXL",
+        text: "pale 🩵 tailored suit jacket,fitted waist,structured shoulders,🤍 dress shirt,large pale 🩵 ribbon tie,oversized ribbon bow,long ribbon tails,pearl buttons,silver trim, very frilly sleeves,layered ruffles only on the sleeves,large 🤍 ruffled cuffs,dramatic bell sleeves,ruffled sleeve edges, short pale 🩵 mermaid skirt,
+high-waisted mini skirt,fitted hips,slightly flared hem,clean smooth skirt surface,plain skirt,matching pale 🩵 suit fabric,"
+      }
+    ]
   }
 ];
