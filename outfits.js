@@ -414,5 +414,37 @@ window.outfits = [
         text: "abandoned circus tent at night, torn crimson curtains, vintage circus stage, broken spotlights, scattered playing cards, hanging decorations, faint fog, dark carnival atmosphere"
       }
     ]
+  },
+
+    {
+    id: "work-012",
+    name: "🐈🤍",
+    category: "女の子",
+    description: "Whitecat",
+    image: "Whitecat.PNG",
+
+    clothes: [
+      {
+        title: "white cat inspired sweet lolita outfit",
+        model: "SDXL",
+        text: "white cat inspired sweet lolita outfit, fluffy ivory-white dress, rounded puff sleeves, oversized Peter Pan collar with tiny cat-ear shaped corners, layered fluffy skirt resembling soft cat fur, pastel pink ribbon bows, delicate paw-print embroidery, tiny golden bell necklace, fluffy white lace bonnet with subtle cat ears, pink satin ribbons, white lace stockings with tiny paw motifs, rounded mary jane shoes with fluffy pompom decorations, soft plush textures, adorable feline details, luxurious sweet lolita fashion,"
+      }
+    ],
+
+    composition: [
+      {
+        title: "sitting curled up like a sleepy kitten",
+        model: "SDXL",
+        text: "sitting curled up like a sleepy kitten, hugging a large heart-shaped cushion, knees slightly drawn up, soft relaxed pose,"
+      }
+    ],
+
+    background: [
+      {
+        title: "dreamy pastel bedroom",
+        model: "SDXL",
+        text: "dreamy pastel bedroom, fluffy white curtains, pink roses, plush cushions, moon-shaped decorations, soft morning sunlight, floating ribbons, cozy fairytale atmosphere"
+      }
+    ]
   }
 ];
