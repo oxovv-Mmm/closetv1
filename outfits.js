@@ -382,5 +382,37 @@ window.outfits = [
         text: "fantasy candy kingdom,giant lollipops,candy houses,macaron towers,floating sweets,pink and pastel clouds,a magnificent candy castle in the distance,sparkling magical particles,soft sunlight,dreamy atmosphere,highly detailed fantasy background"
       }
     ]
+  },
+
+    {
+    id: "work-011",
+    name: "🎩🪄",
+    category: "女の子",
+    description: "magic",
+    image: "magic.PNG",
+
+    clothes: [
+      {
+        title: "dark circus performer costume",
+        model: "SDXL",
+        text: "dark circus performer costume, black and crimson color scheme, fitted corset top, asymmetrical layered skirt, striped fabric details, ruffled sleeves, decorative gold buttons, tiny tilted top hat, black lace stockings, lace-up ankle boots, ornate circus jewelry"
+      }
+    ],
+
+    composition: [
+      {
+        title: "dramatic perspective",
+        model: "SDXL",
+        text: "upper body, dynamic pose, leaning slightly forward, one hand holding a small circus cane, other hand raised playfully, mischievous smile, looking directly at viewer, dramatic perspective"
+      }
+    ],
+
+    background: [
+      {
+        title: "abandoned circus tent at night",
+        model: "SDXL",
+        text: "abandoned circus tent at night, torn crimson curtains, vintage circus stage, broken spotlights, scattered playing cards, hanging decorations, faint fog, dark carnival atmosphere"
+      }
+    ]
   }
 ];
