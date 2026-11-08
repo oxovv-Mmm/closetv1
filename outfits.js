@@ -190,5 +190,38 @@ window.outfits = [
         text: "automotive repair garage,motorcycle parts,toolboxes,hanging tools,concrete floor,industrial lighting,slightly smoky atmosphere,cinematic depth of field"
       }
     ]
+  },
+
+  {
+    id: "work-005",
+    name: "🐺⚔️",
+    category: "女の子",
+    description: "wolf",
+    image: "wolf.PNG",
+
+    clothes: [
+      {
+        title: "wolf beastkin female knight outfit",
+        model: "SDXL",
+        text: "wolf beastkin female knight outfit,fantasy warrior armor,black, dark gray, silver, and deep blue color palette,
+wolf fur trim,ornate fitted armor,layered armored skirt,leather belts,large shoulder armor,metal gauntlets,thigh-high armored boots,long cape,moon-shaped ornaments,wolf-inspired engravings,powerful and elegant fantasy warrior,extremely detailed armor"
+      }
+    ],
+
+    composition: [
+      {
+        title: "dynamic battle pose",
+        model: "SDXL",
+        text: "full body,dynamic battle pose,standing on a rocky cliff,holding a large fantasy sword over one shoulder,wolf ears alert,tail flowing in the wind,one foot placed forward,looking down toward the viewer,long cape blowing dramatically,powerful low angle composition"
+      }
+    ],
+
+    background: [
+      {
+        title: "massive full moon",
+        model: "SDXL",
+        text: "dark fantasy mountain landscape,massive full moon,mist-covered pine forest below,ancient ruins,a pack of wolves in the distance,strong wind,dark clouds,moonlight,floating glowing particles,epic fantasy atmosphere,extremely detailed background"
+      }
+    ]
   }
 ];
