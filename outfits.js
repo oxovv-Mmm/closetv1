@@ -126,5 +126,37 @@ window.outfits = [
         text: "dimly lit cocktail bar, dark wood interior, shelves filled with bottles, warm ambient lighting, soft golden reflections on glass, cinematic atmosphere, background bokeh"
       }
     ]
-  }
+  },
+  
+  {
+    id: "work-005",
+    name: "🦊🖤",
+    category: "女の子",
+    description: "red spider lilies",
+    image: "fox.PNG",
+
+    clothes: [
+      {
+        title: "black and red gothic outfit",
+        model: "SDXL",
+        text: "black and red gothic outfit, short-sleeved shiny black bolero with high collar and buckles, red lace bra with floral embroidery, black ornate corset with silver hooks and lacing, red patterned pleated mini skirt, red fingerless studded gloves, black platform boots with red soles, red spider lily hairpin, matching red spider lily earrings, black cat mask with red patterns, glossy and lace materials, form-fitting, seductive Japanese gothic style"
+      }
+    ],
+
+    composition: [
+      {
+        title: "standing in a dark Japanese garden at night",
+        model: "SDXL",
+        text: "standing in a dark Japanese garden at night,surrounded by blooming red spider lilies,slightly low angle,one hand gently touching the black cat mask,looking directly at the viewer,confident and seductive expression,"
+      }
+    ],
+
+    background: [
+      {
+        title: "red spider lilies in the foreground",
+        model: "SDXL",
+        text: "red spider lilies in the foreground,dark wooden torii gates in the background,soft mist,red moonlight,dramatic cinematic lighting,deep black and crimson atmosphere,Japanese gothic aesthetic,shallow depth of field"
+      }
+    ]
+  },
 ];
