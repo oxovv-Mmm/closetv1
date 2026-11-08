@@ -286,5 +286,37 @@ window.outfits = [
         text: "futuristic space city,neon signs,giant glowing planet in the sky,retro-futuristic atmosphere,wide-angle composition"
       }
     ]
+  }
+
+    {
+    id: "work-009",
+    name: "🌸🌙",
+    category: "女の子",
+    description: "sakura",
+    image: "sakura.PNG",
+
+    clothes: [
+      {
+        title: "cherry blossom spirit outfit",
+        model: "SDXL",
+        text: "cherry blossom spirit outfit,ethereal Japanese-inspired fantasy dress,soft pink, white, and pale lavender color palette,flowing layered skirt,translucent fabric,cherry blossom embroidery,delicate floral ornaments,long flowing sleeves,large ribbon obi,petal-shaped accessories,gold hair ornaments,flowing ribbons,elegant and dreamy fantasy fashion,extremely detailed clothing"
+      }
+    ],
+
+    composition: [
+      {
+        title: "floating gracefully beneath",
+        model: "SDXL",
+        text: "full body,floating gracefully beneath a giant cherry blossom tree,one hand gently catching falling petals,the other hand extended outward,body slightly turning,long sleeves and ribbons flowing,looking softly toward the viewer,elegant magical composition"
+      }
+    ],
+
+    background: [
+      {
+        title: "enchanted cherry blossom",
+        model: "SDXL",
+        text: "enchanted cherry blossom forest,an enormous ancient sakura tree,countless cherry blossoms falling through the air,glowing lanterns,soft mist,a small fantasy shrine in the distance,pink petalscovering the ground,dreamy sunset sky,ethereal atmosphere,extremely detailed background"
+      }
+    ]
   },
 ];
