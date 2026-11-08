@@ -517,7 +517,7 @@ window.outfits = [
     name: "🐈‍⬛🖤",
     category: "男の子",
     description: "blackcat",
-    image: "blackncat.png",
+    image: "blackcat.png",
 
     clothes: [
       {
