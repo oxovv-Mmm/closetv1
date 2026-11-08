@@ -203,8 +203,7 @@ window.outfits = [
       {
         title: "wolf beastkin female knight outfit",
         model: "SDXL",
-        text: "wolf beastkin female knight outfit,fantasy warrior armor,black, dark gray, silver, and deep blue color palette,
-wolf fur trim,ornate fitted armor,layered armored skirt,leather belts,large shoulder armor,metal gauntlets,thigh-high armored boots,long cape,moon-shaped ornaments,wolf-inspired engravings,powerful and elegant fantasy warrior,extremely detailed armor"
+        text: "wolf beastkin female knight outfit,fantasy warrior armor,black, dark gray, silver, and deep blue color palette,wolf fur trim,ornate fitted armor,layered armored skirt,leather belts,large shoulder armor,metal gauntlets,thigh-high armored boots,long cape,moon-shaped ornaments,wolf-inspired engravings,powerful and elegant fantasy warrior,extremely detailed armor"
       }
     ],
 
