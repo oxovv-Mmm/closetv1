@@ -574,5 +574,37 @@ window.outfits = [
         text: "luxurious Victorian mansion dining room, dark wood furniture, crystal chandelier, velvet curtains, silver tea set, roses in porcelain vases, warm candlelight, sophisticated atmosphere"
       }
     ]
+  },
+
+    {
+    id: "work-010",
+    name: "🐈🎀",
+    category: "男の子",
+    description: "prettycat",
+    image: "prettycat.png",
+
+    clothes: [
+      {
+        title: "white and pastel pink elegant prince outfit",
+        model: "SDXL",
+        text: "white and pastel pink elegant prince outfit, white velvet jacket, pink velvet vest, large pink ribbon bow, white lace collar, pearl buttons, fluffy white cuffs, pink satin ribbons, white fitted trousers, white knee-high boots with pink ribbons, small gold bell necklace, cat ears with pink inner ears and small pearl decorations,"
+      }
+    ],
+
+    composition: [
+      {
+        title: "gentle confident pose",
+        model: "SDXL",
+        text: "sitting elegantly on a white velvet sofa, holding a small pink rose, one leg crossed, gentle confident pose,"
+      }
+    ],
+
+    background: [
+      {
+        title: "white and pink royal room",
+        model: "SDXL",
+        text: "white and pink royal room, white marble floor, pink curtains, crystal chandelier, white roses and pink flowers, ornate white furniture, soft warm light, dreamy fairytale atmosphere"
+      }
+    ]
   }
 ];
