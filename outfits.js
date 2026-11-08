@@ -658,9 +658,9 @@ window.outfits = [
 
     {
     id: "work-022",
-    name: "👯🏻‍♀️🎀",
-    category: "女の子",
-    description: ".⋆𝜗𝜚. ⋆",
+    name: "👩🏻‍🐰‍👩🏼🎀",
+    category: "共通",
+    description: "Webのみ",
     image: "highleg.png",
 
     clothes: [
