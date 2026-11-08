@@ -611,7 +611,7 @@ window.outfits = [
     {
     id: "work-020",
     name: "👾🎮",
-    category: "男の子",
+    category: "女の子",
     description: "Gamingcyber",
     image: "Gamingcyber.png",
 
@@ -643,7 +643,7 @@ window.outfits = [
     {
     id: "work-021",
     name: "🎀🤍",
-    category: "男の子",
+    category: "女の子",
     description: "🩵好きに色変えてね🤍",
     image: "nyan.png",
 
