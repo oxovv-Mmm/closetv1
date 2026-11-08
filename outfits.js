@@ -193,7 +193,7 @@ window.outfits = [
   },
 
   {
-    id: "work-005",
+    id: "work-007",
     name: "🐺⚔️",
     category: "女の子",
     description: "wolf",
