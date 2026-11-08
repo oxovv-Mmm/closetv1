@@ -158,5 +158,5 @@ window.outfits = [
         text: "red spider lilies in the foreground,dark wooden torii gates in the background,soft mist,red moonlight,dramatic cinematic lighting,deep black and crimson atmosphere,Japanese gothic aesthetic,shallow depth of field"
       }
     ]
-  },
+  }
 ];
