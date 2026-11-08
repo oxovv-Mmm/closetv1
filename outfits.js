@@ -254,5 +254,37 @@ window.outfits = [
         text: "dark gothic city at night,massive full moon,ancient cathedral,fog-covered streets,glowing windows,bats flying through the sky,dark clouds,moonlight,dramatic gothic atmosphere,extremely detailed background"
       }
     ]
-  }
+  },
+
+    {
+    id: "work-009",
+    name: "🎧💫",
+    category: "女の子",
+    description: "future",
+    image: "cfuture.PNG",
+
+    clothes: [
+      {
+        title: "Y2K space girl outfit",
+        model: "SDXL",
+        text: "Y2K space girl outfit,futuristic cyber fashion,metallic silver, white and pastel pink color palette,cropped futuristic jacket,asymmetrical mini skirt,low-rise layered belt,metallic fabric,holographic details,star-shaped accessories,futuristic headphones,arm warmers,chunky platform boots,cute retro-futuristic aesthetic,2000s space fashion"
+      }
+    ],
+
+    composition: [
+      {
+        title: "dynamic low-angle pose",
+        model: "SDXL",
+        text: "dynamic low-angle pose,one foot stepping forward,leaning slightly toward the camera,one hand making a playful peace sign,floating holographic planets around her,"
+      }
+    ],
+
+    background: [
+      {
+        title: "futuristic space city",
+        model: "SDXL",
+        text: "futuristic space city,neon signs,giant glowing planet in the sky,retro-futuristic atmosphere,wide-angle composition"
+      }
+    ]
+  },
 ];
