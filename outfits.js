@@ -478,5 +478,37 @@ window.outfits = [
         text: "cozy vintage tea room, dark wooden furniture, cream lace curtains, antique tea set, chocolate cakes and pastries, dried flowers, warm candlelight, brown velvet sofa, soft golden afternoon light, cozy romantic atmosphere"
       }
     ]
+  },
+
+    {
+    id: "work-014",
+    name: "🐈‍⬛💛",
+    category: "女の子",
+    description: "goldcat",
+    image: "browncat.PNG",
+
+    clothes: [
+      {
+        title: "luxurious aristocratic young lady outfit",
+        model: "SDXL",
+        text: "luxurious aristocratic young lady outfit, elegant black, pale golden yellow and ivory color palette, elaborate black velvet dress, fitted bodice with delicate gold embroidery, high ivory lace collar, large rounded puff sleeves, layered bell-shaped skirt, pale golden yellow satin underskirt, black lace overskirt, oversized black and gold ribbon at the waist, intricate antique gold embroidery, pearl buttons, elegant golden brooch, delicate pearl necklace, black lace gloves, ivory lace stockings, polished black mary jane shoes with golden buckles, long flowing black and golden ribbons, luxurious velvet, satin and lace, refined old-money fashion, sophisticated noble lady aesthetic, subtle feline motifs, fluffy black cat ears decorated with ivory lace, black ribbons, pearls and tiny golden ornaments,"
+      }
+    ],
+
+    composition: [
+      {
+        title: "graceful elegant pose",
+        model: "SDXL",
+        text: "sitting elegantly on an antique velvet chaise lounge, posture perfectly straight, one hand resting gracefully beside her, the other holding a delicate porcelain teacup, ankles crossed, chin slightly raised, calm refined expression, graceful elegant pose,"
+      }
+    ],
+
+    background: [
+      {
+        title: "luxurious old European",
+        model: "SDXL",
+        text: "grand aristocratic mansion salon, dark polished wood furniture, ivory walls with elaborate gold moldings, enormous black velvet curtains, antique golden mirror, crystal chandelier, porcelain tea set, black and pale yellow roses, ornate gold-framed paintings, warm afternoon sunlight, luxurious old European aristocratic atmosphere"
+      }
+    ]
   }
 ];
