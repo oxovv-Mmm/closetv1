@@ -446,5 +446,37 @@ window.outfits = [
         text: "dreamy pastel bedroom, fluffy white curtains, pink roses, plush cushions, moon-shaped decorations, soft morning sunlight, floating ribbons, cozy fairytale atmosphere"
       }
     ]
+  },
+
+    {
+    id: "work-013",
+    name: "🐈🤎",
+    category: "女の子",
+    description: "browncat",
+    image: "browncat.PNG",
+
+    clothes: [
+      {
+        title: "cute chocolate brown cat-inspired lolita outfit",
+        model: "SDXL",
+        text: "cute chocolate brown cat-inspired lolita outfit, rich chocolate brown and cream color palette, chocolate brown velvet dress, cream lace Peter Pan collar, puff sleeves, layered bell-shaped skirt, cream lace ruffles, caramel satin ribbons, chocolate-colored bows, tiny golden bell necklace, cat paw embroidery, lace cuffs, cream knee-high socks with tiny paw motifs, brown mary jane shoes with ribbon bows, fluffy brown cat ears decorated with cream ribbons and tiny pearls, elegant feline details, adorable vintage sweet lolita fashion,"
+      }
+    ],
+
+    composition: [
+      {
+        title: "playful sleepy expression",
+        model: "SDXL",
+        text: "sitting curled up on a large velvet cushion like a spoiled little cat, hugging a small cream-colored pillow, one knee slightly raised, playful sleepy expression,"
+      }
+    ],
+
+    background: [
+      {
+        title: "cozy vintage tea room",
+        model: "SDXL",
+        text: "cozy vintage tea room, dark wooden furniture, cream lace curtains, antique tea set, chocolate cakes and pastries, dried flowers, warm candlelight, brown velvet sofa, soft golden afternoon light, cozy romantic atmosphere"
+      }
+    ]
   }
 ];
