@@ -667,8 +667,7 @@ window.outfits = [
       {
         title: "pastel pink and white fantasy lingerie-inspired costume",
         model: "SDXL",
-        text: "pastel pink and white fantasy lingerie-inspired costume,two parallel horizontal straps framing the bust,one narrow strap positioned above the bust,
-one narrow strap positioned directly beneath the bust,open center chest area between the two straps,strap-only upper design, no bodice, no cups, no blouse,small heart-shaped buckles, delicate silver hardware,thin shoulder straps attached to the upper strap,high-cut leotard-style bottom,very high leg openings,frilly ruffle trim around the leg openings,layered white sheer lace ruffles,pastel pink scalloped frills,large ribbon bows at both hips,thin decorative waist belt,heart-shaped charms hanging from the belt,white sheer lace,translucent organza, pastel pink satin ribbons,cute doll-like aesthetic, romantic,delicate, ornate,white and pastel pink color palette"
+        text: "pastel pink and white fantasy lingerie-inspired costume,two parallel horizontal straps framing the bust,one narrow strap positioned above the bust,one narrow strap positioned directly beneath the bust,open center chest area between the two straps,strap-only upper design, no bodice, no cups, no blouse,small heart-shaped buckles, delicate silver hardware,thin shoulder straps attached to the upper strap,high-cut leotard-style bottom,very high leg openings,frilly ruffle trim around the leg openings,layered white sheer lace ruffles,pastel pink scalloped frills,large ribbon bows at both hips,thin decorative waist belt,heart-shaped charms hanging from the belt,white sheer lace,translucent organza, pastel pink satin ribbons,cute doll-like aesthetic, romantic,delicate, ornate,white and pastel pink color palette"
         }
     ]
   }
