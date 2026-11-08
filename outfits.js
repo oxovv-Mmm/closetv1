@@ -542,5 +542,37 @@ window.outfits = [
         text: "dark gothic aristocratic room, black velvet curtains, antique furniture, moonlit window, black roses, silver candlesticks, subtle cat silhouettes in the shadows"
       }
     ]
+  },
+
+    {
+    id: "work-010",
+    name: "🐈‍⬛🍴",
+    category: "男の子",
+    description: "butlercat",
+    image: "butlercat.png",
+
+    clothes: [
+      {
+        title: "elegant feline butler outfi",
+        model: "SDXL",
+        text: "elegant feline butler outfit, black tailcoat with subtle cat-ear shaped lapels, ivory high-collar shirt, black satin cravat with a small silver bell, fitted black waistcoat, slim black trousers, long black gloves, polished leather shoes, silver cat-shaped pocket watch, paw-print embroidery on the cuffs, long black ribbon attached at the back resembling a cat tail, luxurious Victorian butler fashion, refined feline details, elegant and sophisticated, White cat ears, realistic soft White cat ears, elegant upright cat ears, small White cat ears, cat ears seamlessly integrated into the hairstyle,"
+      }
+    ],
+
+    composition: [
+      {
+        title: "elegant feline-like posture",
+        model: "SDXL",
+        text: "standing beside a tea table, one hand holding a silver teapot, slightly leaning forward in a graceful bow, gentle sleepy expression, elegant feline-like posture,"
+      }
+    ],
+
+    background: [
+      {
+        title: "luxurious Victorian mansion dining room",
+        model: "SDXL",
+        text: "luxurious Victorian mansion dining room, dark wood furniture, crystal chandelier, velvet curtains, silver tea set, roses in porcelain vases, warm candlelight, sophisticated atmosphere"
+      }
+    ]
   }
 ];
