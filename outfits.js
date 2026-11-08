@@ -261,7 +261,7 @@ window.outfits = [
     name: "🎧💫",
     category: "女の子",
     description: "future",
-    image: "cfuture.PNG",
+    image: "future.PNG",
 
     clothes: [
       {
