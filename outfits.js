@@ -1,3 +1,4 @@
+
 window.outfits = [
   {
     id: "work-001",
@@ -68,7 +69,8 @@ window.outfits = [
     name: "💐🤍",
     category: "女の子",
     description: "Vintage Floral Collection",
-image: "vintagegirl.JPG",
+    image: "vintagegirl.JPG",
+
     clothes: [
       {
         title: "Vintage Floral Outfit",
@@ -85,11 +87,43 @@ image: "vintagegirl.JPG",
       }
     ],
 
-        background: [
+    background: [
       {
         title: "Antique European Mansion",
         model: "SDXL",
         text: "antique European mansion, stained glass windows, vintage flower vases, dried flowers, old paintings, lace curtains, warm candlelight, elegant romantic composition, soft vintage atmosphere"
+      }
+    ]
+  },
+
+  {
+    id: "work-004",
+    name: "🥃 bar",
+    category: "女の子",
+    description: "Gothic Bartender Collection",
+    image: "bar.PNG",
+
+    clothes: [
+      {
+        title: "Gothic Bartender Outfit",
+        model: "SDXL",
+        text: "gothic bartender outfit, realistic bartender uniform inspired fashion, black fitted vest, deep burgundy corset, white lace blouse, puffed sleeves, black bow tie, lace-trimmed apron skirt, layered skirt, black stockings, high-heeled ankle boots, black gloves, silver chains, ornate wine glass and cocktail motifs, elegant gothic fashion, sophisticated and seductive, detailed fabric textures"
+      }
+    ],
+
+    composition: [
+      {
+        title: "Behind the Bar Counter",
+        model: "SDXL",
+        text: "standing behind a luxurious bar counter, holding a cocktail shaker with one hand, slightly leaning forward toward the viewer, confident mysterious smile"
+      }
+    ],
+
+    background: [
+      {
+        title: "Dimly Lit Cocktail Bar",
+        model: "SDXL",
+        text: "dimly lit cocktail bar, dark wood interior, shelves filled with bottles, warm ambient lighting, soft golden reflections on glass, cinematic atmosphere, background bokeh"
       }
     ]
   }
