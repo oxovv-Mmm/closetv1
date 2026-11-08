@@ -216,10 +216,12 @@ wolf fur trim,ornate fitted armor,layered armored skirt,leather belts,large shou
       }
     ],
 
-    background: [
+        background: [
       {
         title: "massive full moon",
         model: "SDXL",
         text: "dark fantasy mountain landscape,massive full moon,mist-covered pine forest below,ancient ruins,a pack of wolves in the distance,strong wind,dark clouds,moonlight,floating glowing particles,epic fantasy atmosphere,extremely detailed background"
       }
-   ];
+    ]
+  }
+];
