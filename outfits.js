@@ -510,5 +510,37 @@ window.outfits = [
         text: "grand aristocratic mansion salon, dark polished wood furniture, ivory walls with elaborate gold moldings, enormous black velvet curtains, antique golden mirror, crystal chandelier, porcelain tea set, black and pale yellow roses, ornate gold-framed paintings, warm afternoon sunlight, luxurious old European aristocratic atmosphere"
       }
     ]
+  },
+
+    {
+    id: "work-010",
+    name: "🐈‍⬛🖤",
+    category: "男の子",
+    description: "blackcat",
+    image: "blackncat.png",
+
+    clothes: [
+      {
+        title: "black cat inspired gothic prince outfit",
+        model: "SDXL",
+        text: "black cat inspired gothic prince outfit, elegant black velvet tailcoat, fitted black waistcoat, high standing collar shaped subtly like cat ears, oversized black satin bow tie with a tiny silver bell, silver cat-shaped brooch, black fitted trousers, decorative silver chains resembling a cat's tail, black leather ankle boots, subtle paw-print embroidery, luxurious velvet and satin textures, refined gothic aristocratic fashion, feline details without looking like a costume,"
+      }
+    ],
+
+    composition: [
+      {
+        title: "graceful feline-like posture",
+        model: "SDXL",
+        text: "sitting elegantly on the armrest of an antique chair, one elbow resting casually on the chair, head slightly tilted, relaxed sleepy expression, graceful feline-like posture,"
+      }
+    ],
+
+    background: [
+      {
+        title: "dark gothic aristocratic room",
+        model: "SDXL",
+        text: "dark gothic aristocratic room, black velvet curtains, antique furniture, moonlit window, black roses, silver candlesticks, subtle cat silhouettes in the shadows"
+      }
+    ]
   }
 ];
