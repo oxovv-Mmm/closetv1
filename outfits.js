@@ -158,5 +158,37 @@ window.outfits = [
         text: "red spider lilies in the foreground,dark wooden torii gates in the background,soft mist,red moonlight,dramatic cinematic lighting,deep black and crimson atmosphere,Japanese gothic aesthetic,shallow depth of field"
       }
     ]
+  },
+
+  {
+    id: "work-006",
+    name: "🛵👩🏻‍🔧",
+    category: "女の子",
+    description: "automotive repair garage",
+    image: "bike.PNG",
+
+    clothes: [
+      {
+        title: "punk mechanic outfit",
+        model: "SDXL",
+        text: "punk mechanic outfit,realistic auto mechanic workwear inspired fashion,black cropped mechanic jacket,half-unzipped utility jumpsuit,graphic tank top,plaid fabric tied around the waist,tool belt,metal chains,patches and embroidered logos,fingerless gloves,cargo shorts,black knee-high boots,grease stains,industrial punk fashion,rebellious and stylish,"
+      }
+    ],
+
+    composition: [
+      {
+        title: "sitting on the edge of a workbench",
+        model: "SDXL",
+        text: "sitting on the edge of a workbench,holding a wrench over one shoulder,one leg casually crossed,confident mischievous expression,full body shot,"
+      }
+    ],
+
+    background: [
+      {
+        title: "automotive repair garage",
+        model: "SDXL",
+        text: "automotive repair garage,motorcycle parts,toolboxes,hanging tools,concrete floor,industrial lighting,slightly smoky atmosphere,cinematic depth of field"
+      }
+    ]
   }
 ];
