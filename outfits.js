@@ -286,7 +286,7 @@ window.outfits = [
         text: "futuristic space city,neon signs,giant glowing planet in the sky,retro-futuristic atmosphere,wide-angle composition"
       }
     ]
-  }
+  },
 
     {
     id: "work-009",
@@ -318,5 +318,5 @@ window.outfits = [
         text: "enchanted cherry blossom forest,an enormous ancient sakura tree,countless cherry blossoms falling through the air,glowing lanterns,soft mist,a small fantasy shrine in the distance,pink petalscovering the ground,dreamy sunset sky,ethereal atmosphere,extremely detailed background"
       }
     ]
-  },
+  }
 ];
