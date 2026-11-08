@@ -421,7 +421,7 @@ window.outfits = [
     name: "🐈🤍",
     category: "女の子",
     description: "Whitecat",
-    image: "Whitecat.PNG",
+    image: "Whitecat.png",
 
     clothes: [
       {
@@ -453,7 +453,7 @@ window.outfits = [
     name: "🐈🤎",
     category: "女の子",
     description: "browncat",
-    image: "browncat.PNG",
+    image: "browncat.png",
 
     clothes: [
       {
