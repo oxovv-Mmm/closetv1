@@ -606,5 +606,37 @@ window.outfits = [
         text: "white and pink royal room, white marble floor, pink curtains, crystal chandelier, white roses and pink flowers, ornate white furniture, soft warm light, dreamy fairytale atmosphere"
       }
     ]
+  },
+
+    {
+    id: "work-010",
+    name: "🐈🎀",
+    category: "男の子",
+    description: "Gamingcyber",
+    image: "Gamingcyber.PNG",
+
+    clothes: [
+      {
+        title: "white and pastel pink elegant prince outfit",
+        model: "SDXL",
+        text: "elegant futuristic sniper outfit, long asymmetrical black and deep purple tactical coat, translucent cloak layers, sleek armored bodice, glowing optical circuitry, oversized high-tech hood, floating holographic targeting lenses around the head, thin energy cables connecting the coat to the weapon, sharp geometric armor pieces, elegant thigh armor, futuristic long boots, mysterious fantasy sniper aesthetic,"
+      }
+    ],
+
+    composition: [
+      {
+        title: "full-body character standing in the center",
+        model: "SDXL",
+        text: "full-body character standing in the center, long futuristic sniper rifle held casually, flowing coat creating dramatic silhouette, floating weapon detail panels, enlarged scope, coat material, targeting device and armor details, tiny chibi sniper sitting on a floating ammunition crate,"
+      }
+    ],
+
+    background: [
+      {
+        title: "towering futuristic city at night",
+        model: "SDXL",
+        text: "towering futuristic city at night, enormous holographic skyline, distant neon lights, rain particles, floating targeting grids, dark violet atmosphere, cinematic moonlight, futuristic FPS character introduction screen"
+      }
+    ]
   }
 ];
