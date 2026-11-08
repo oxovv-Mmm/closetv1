@@ -339,8 +339,7 @@ window.outfits = [
       {
         title: "standing on palace stairs",
         model: "SDXL",
-        text: "standing on palace stairs,one hand holding flowing fabric,slightly looking back,wind blowing through the veil and clothes,dynamic flowing composition
-"
+        text: "standing on palace stairs,one hand holding flowing fabric,slightly looking back,wind blowing through the veil and clothes,dynamic flowing composition"
       }
     ],
 
@@ -348,8 +347,7 @@ window.outfits = [
       {
         title: "luxurious arabian palace",
         model: "SDXL",
-        text: "luxurious arabian palace,white marble,golden arches,ornate windows,warm sunset light,floating curtains
-"
+        text: "luxurious arabian palace,white marble,golden arches,ornate windows,warm sunset light,floating curtains"
       }
     ]
   }
