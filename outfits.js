@@ -318,5 +318,39 @@ window.outfits = [
         text: "enchanted cherry blossom forest,an enormous ancient sakura tree,countless cherry blossoms falling through the air,glowing lanterns,soft mist,a small fantasy shrine in the distance,pink petalscovering the ground,dreamy sunset sky,ethereal atmosphere,extremely detailed background"
       }
     ]
+  },
+
+  {
+    id: "work-010",
+    name: "🏜🐪",
+    category: "共通",
+    description: "arabiann",
+    image: "arabiann.PNG",
+
+    clothes: [
+      {
+        title: "arabian princess outfit",
+        model: "SDXL",
+        text: "arabian princess outfit,turquoise and gold color scheme,ornate jeweled bra top,layered translucent chiffon fabrics,gold embroidered skirt,wide hip scarf decorated with coins and gemstones,long flowing sleeves,gold armlets,multiple bangles,ankle jewelry,forehead jewel,delicate veil,luxurious arabian fantasy fashion,ornate embroidery,sparkling gemstones,flowing fabric"
+      }
+    ],
+
+    composition: [
+      {
+        title: "standing on palace stairs",
+        model: "SDXL",
+        text: "standing on palace stairs,one hand holding flowing fabric,slightly looking back,wind blowing through the veil and clothes,dynamic flowing composition
+"
+      }
+    ],
+
+    background: [
+      {
+        title: "luxurious arabian palace",
+        model: "SDXL",
+        text: "luxurious arabian palace,white marble,golden arches,ornate windows,warm sunset light,floating curtains
+"
+      }
+    ]
   }
 ];
