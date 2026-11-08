@@ -513,7 +513,7 @@ window.outfits = [
   },
 
     {
-    id: "work-010",
+    id: "work-015",
     name: "🐈‍⬛🖤",
     category: "男の子",
     description: "blackcat",
@@ -545,7 +545,7 @@ window.outfits = [
   },
 
     {
-    id: "work-010",
+    id: "work-016",
     name: "🐈‍⬛🍴",
     category: "男の子",
     description: "butlercat",
@@ -577,7 +577,7 @@ window.outfits = [
   },
 
     {
-    id: "work-010",
+    id: "work-017",
     name: "🐈🎀",
     category: "男の子",
     description: "prettycat",
@@ -609,8 +609,8 @@ window.outfits = [
   },
 
     {
-    id: "work-010",
-    name: "🐈🎀",
+    id: "work-018",
+    name: "👾🎮",
     category: "男の子",
     description: "Gamingcyber",
     image: "Gamingcyber.png",
@@ -641,8 +641,8 @@ window.outfits = [
   },
 
     {
-    id: "work-010",
-    name: "🐈🎀",
+    id: "work-019",
+    name: "🎀🤍",
     category: "男の子",
     description: "🩵好きに色変えてね🤍",
     image: "nyan.png",
@@ -651,8 +651,7 @@ window.outfits = [
       {
         title: "white and pastel pink elegant prince outfit",
         model: "SDXL",
-        text: "pale 🩵 tailored suit jacket,fitted waist,structured shoulders,🤍 dress shirt,large pale 🩵 ribbon tie,oversized ribbon bow,long ribbon tails,pearl buttons,silver trim, very frilly sleeves,layered ruffles only on the sleeves,large 🤍 ruffled cuffs,dramatic bell sleeves,ruffled sleeve edges, short pale 🩵 mermaid skirt,
-high-waisted mini skirt,fitted hips,slightly flared hem,clean smooth skirt surface,plain skirt,matching pale 🩵 suit fabric,"
+        text: "pale 🩵 tailored suit jacket,fitted waist,structured shoulders,🤍 dress shirt,large pale 🩵 ribbon tie,oversized ribbon bow,long ribbon tails,pearl buttons,silver trim, very frilly sleeves,layered ruffles only on the sleeves,large 🤍 ruffled cuffs,dramatic bell sleeves,ruffled sleeve edges, short pale 🩵 mermaid skirt,high-waisted mini skirt,fitted hips,slightly flared hem,clean smooth skirt surface,plain skirt,matching pale 🩵 suit fabric,"
       }
     ]
   }
