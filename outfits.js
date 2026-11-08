@@ -350,5 +350,37 @@ window.outfits = [
         text: "luxurious arabian palace,white marble,golden arches,ornate windows,warm sunset light,floating curtains"
       }
     ]
+  },
+
+    {
+    id: "work-010",
+    name: "🪄︎︎🍬",
+    category: "女の子",
+    description: "Candy",
+    image: "Candy.PNG",
+
+    clothes: [
+      {
+        title: "fantasy magical girl outfit",
+        model: "SDXL",
+        text: "fantasy magical girl outfit,sweet fantasy fashion,short layered dress,fluffy puff sleeves,corset bodice,multiple layers of soft ruffles,lace trim,large ribbon bows,heart-shaped decorations,candy-inspired accessories,frilled skirt,petticoat,striped stockings,cute ankle boots,pastel colors,pink, cream, lavender, and mint color palette,magical candy kingdom aesthetic,ornate details,extremely detailed clothing"
+      }
+    ],
+
+    composition: [
+      {
+        title: "standing on palace stairs",
+        model: "SDXL",
+        text: "dynamic cute pose,looking back at the viewer,body slightly turned,one hand holding a large magical candy staff,the other hand lifting the edge of her skirt,one leg slightly raised,playful expression,flowing ribbons and skirt,sense of movement,full body"
+      }
+    ],
+
+    background: [
+      {
+        title: "fantasy candy kingdom",
+        model: "SDXL",
+        text: "fantasy candy kingdom,giant lollipops,candy houses,macaron towers,floating sweets,pink and pastel clouds,a magnificent candy castle in the distance,sparkling magical particles,soft sunlight,dreamy atmosphere,highly detailed fantasy background"
+      }
+    ]
   }
 ];
