@@ -704,9 +704,6 @@ window.outfits = [
     ]
   },
 
-  
-
-
   {
     id: "work-024",
     name: "🪑🖤",
@@ -737,5 +734,5 @@ window.outfits = [
         text: "editorial photography, glossy black studio, vivid pink neon lights, reflective floor, dramatic shadows"
       }
     ]
-  }, 
+  }
 ];
