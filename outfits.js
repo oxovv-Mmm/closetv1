@@ -670,5 +670,37 @@ window.outfits = [
         text: "pastel pink and white fantasy lingerie-inspired costume, two parallel horizontal straps framing the bust, one narrow strap positioned above the bust, one narrow strap positioned directly beneath the bust, open center chest area between the two straps, strap-only upper design, no bodice, no cups, no blouse, small heart-shaped buckles, delicate silver hardware, thin shoulder straps attached to the upper strap, high-cut leotard-style bottom, very high leg openings, frilly ruffle trim around the leg openings, layered white sheer lace ruffles, pastel pink scalloped frills, large ribbon bows at both hips, thin decorative waist belt, heart-shaped charms hanging from the belt, white sheer lace, translucent organza, pastel pink satin ribbons, cute doll-like aesthetic, romantic, delicate, ornate, white and pastel pink color palette"
       }
     ]
+  },
+
+    {
+    id: "work-023",
+    name: "🪽🖤",
+    category: "女の子",
+    description: "꒰ঌꨄ︎໒꒱",
+    image: "blackangel.PNG",
+
+    clothes: [
+      {
+        title: "fallen angel gothic dress",
+        model: "SDXL",
+        text: "fallen angel gothic dress, white and black color scheme, elegant fitted bodice, layered chiffon skirt, torn lace, black feather decorations, asymmetrical sleeves, silver embroidery, black ribbon choker, delicate dark halo ornament, black feather wings"
+     }
+    ],
+
+    composition: [
+      {
+        title: "upper body, slightly low angle",
+        model: "SDXL",
+        text: "upper body, slightly low angle, kneeling on one knee, one hand touching her chest, other hand reaching toward viewer, black feathers floating around her, sorrowful yet beautiful expression, looking at viewer"
+      }
+    ],
+
+    background: [
+      {
+        title: "ruined gothic cathedral",
+        model: "SDXL",
+        text: "ruined gothic cathedral, broken stained glass windows, moonlight streaming through the ceiling, fallen white feathers, dark clouds, scattered candles, faint mist, sacred yet ominous atmosphere"
+      }
+    ]
   }
 ];
