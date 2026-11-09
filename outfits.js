@@ -758,5 +758,40 @@ window.outfits = [
         text: "fantasy dessert-themed idol stage,giant strawberries, whipped cream decorations,red and white candy-colored stage set,sparkling lights, floating heart-shaped particles,dreamy sweet atmosphere"
       }
     ]
+  },
+
+  
+
+
+  {
+    id: "work-026",
+    name: "🎪✨",
+    category: "女の子",
+    description: "Circus",
+    image: "Circus.PNG",
+
+    clothes: [
+      {
+        title: "classic circus idol costume",
+        model: "SDXL",
+        text: "classic circus idol costume, theatrical circus performer outfit,bold red, black and white color palette with bright yellow accents,fitted military-inspired cropped jacket,black and red striped details,gold buttons, decorative shoulder epaulettes,large theatrical bow tie,high-waisted fluffy short pants,extremely puffy silhouette, layered ruffle trim,white thigh-high stockings,black and red short boots,gold decorative buckles,large red and black beret with circus decorations,small yellow feather accent,ribbons and gold ornaments,"
+     }
+    ],
+
+    composition: [
+      {
+        title: "energetic circus performer pose,one",
+        model: "SDXL",
+        text: "full body, energetic circus performer pose,one leg lifted slightly, one arm raised dramatically,other hand holding the brim of her beret,playful mischievous smile,dynamic body twist, lively theatrical pose,slightly low angle, centered composition"
+      }
+    ],
+
+    background: [
+      {
+        title: "grand circus tent stage",
+        model: "SDXL",
+        text: "grand circus tent stage,red and white striped circus curtains,golden poles, glowing marquee lights,floating playing cards, stars and confetti,dramatic spotlight, theatrical shadows,colorful glamorous circus atmosphere"
+      }
+    ]
   }
 ];
