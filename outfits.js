@@ -734,5 +734,29 @@ window.outfits = [
         text: "editorial photography, glossy black studio, vivid pink neon lights, reflective floor, dramatic shadows"
       }
     ]
+  },
+
+    {
+    id: "work-025",
+    name: "🍓🤍",
+    category: "女の子",
+    description: "",
+    image: "itigo.png",
+
+    clothes: [
+      {
+        title: "strawberry shortcake themed idol",
+        model: "SDXL",
+        text: "strawberry shortcake themed idol costume,red, white and cream color palette,cute elegant dessert-inspired idol outfit,fitted white bodice with delicate lace,large bright red satin bow on the chest,layered white ruffle mini skirt,multiple cream-like frills, fluffy petticoat,red strawberry decorations, small strawberry-shaped details,white lace head dress with a large red ribbon,white ankle socks with lace trim,cute red and white short boots,sparkling pearl details,"
+     }
+    ],
+
+    background: [
+      {
+        title: "fantasy dessert-themed idol stage",
+        model: "SDXL",
+        text: "fantasy dessert-themed idol stage,giant strawberries, whipped cream decorations,red and white candy-colored stage set,sparkling lights, floating heart-shaped particles,dreamy sweet atmosphere"
+      }
+    ]
   }
 ];
