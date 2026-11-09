@@ -793,5 +793,31 @@ window.outfits = [
         text: "grand circus tent stage,red and white striped circus curtains,golden poles, glowing marquee lights,floating playing cards, stars and confetti,dramatic spotlight, theatrical shadows,colorful glamorous circus atmosphere"
       }
     ]
+  },
+
+    {
+    id: "work-027",
+    name: "☁️🐰",
+    category: "女の子",
+    description: "他の色、動物に変えてもらっても◎",
+    image: "mokousagi.png",
+
+    clothes: [
+      {
+        title: "fluffy animal idol costume, cute cozy idol outfit",
+        model: "SDXL",
+        text: "fluffy animal idol costume, cute cozy idol outfit,soft white and pastel pink color palette,cropped fluffy hooded jacket, oversized animal hood,long rabbit ears, fluffy hood lining, soft plush texture,cute fitted crop top underneath,very short fluffy shorts, fluffy fur trim around the hem,large fluffy rabbit tail attached to the back,fluffy wrist warmers, soft fur details,cute white short boots with fluffy trim,
+small ribbons and heart-shaped decorations,
+"
+     }
+    ],
+
+    background: [
+      {
+        title: "cute pastel idol stage",
+        model: "SDXL",
+        text: "cute pastel idol stage, fluffy clouds, oversized pastel balloons,soft sparkling lights, floating hearts and stars,dreamy colorful concert atmosphere, adorable animal-themed decorations"
+      }
+    ]
   }
 ];
