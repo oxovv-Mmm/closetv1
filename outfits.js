@@ -702,5 +702,40 @@ window.outfits = [
         text: "ruined gothic cathedral, broken stained glass windows, moonlight streaming through the ceiling, fallen white feathers, dark clouds, scattered candles, faint mist, sacred yet ominous atmosphere"
       }
     ]
-  }
+  },
+
+  
+
+
+  {
+    id: "work-024",
+    name: "🪑🖤",
+    category: "共通",
+    description: "",
+    image: "fullleather.PNG",
+
+    clothes: [
+      {
+        title: "cropped black leather jacket",
+        model: "SDXL",
+        text: "cropped black leather jacket, fitted vivid rose pink satin corset top, high-waisted black leather pants, silver chain belt, black platform boots, silver hoop earrings, black leather gloves"
+     }
+    ],
+
+    composition: [
+      {
+        title: "sitting on a high stool",
+        model: "SDXL",
+        text: "sitting on a high stool with one leg crossed over the other, leaning forward slightly with one elbow resting on her knee, looking directly at the viewer, confident expression, close three-quarter shot, fashion "
+      }
+    ],
+
+    background: [
+      {
+        title: "editorial photography",
+        model: "SDXL",
+        text: "editorial photography, glossy black studio, vivid pink neon lights, reflective floor, dramatic shadows"
+      }
+    ]
+  }, 
 ];
