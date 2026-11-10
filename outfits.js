@@ -821,9 +821,9 @@ window.outfits = [
 
     {
     id: "work-028",
-    name: "〰️🖤",
+    name: "🧥🖤",
     category: "女の子",
-    description: "足長つよつよ好",
+    description: "ファッション雑誌風①",
     image: "leathercoat.png",
 
     clothes: [
@@ -847,6 +847,40 @@ window.outfits = [
         title: "rainy city street at night",
         model: "SDXL",
         text: "rainy city street at night, black glass skyscrapers, blurred white street lights, wet pavement reflections, cinematic atmosphere"
+      }
+    ]
+  },
+
+  
+
+  {
+    id: "work-029",
+    name: "〰️🖤",
+    category: "女の子",
+    description: "ファッション雑誌風②",
+    image: "longleg.png",
+
+    clothes: [
+      {
+        title: "structured black cropped blazer",
+        model: "SDXL",
+        text: "structured black cropped blazer, metallic silver fitted corset top, high-waisted black wide-leg trousers, silver waist chain, black pointed-toe heels, silver geometric earrings, sleek futuristic accessories"
+     }
+    ],
+
+    composition: [
+      {
+        title: "standing in a powerful",
+        model: "SDXL",
+        text: "standing in a powerful pose with one hand on her waist, other hand touching her hair, slightly turned body, looking over her shoulder at the viewer, low angle, three-quarter view, full body, high-fashion magazine editorial, "
+      }
+    ],
+
+    background: [
+      {
+        title: "futuristic black and silver studio",
+        model: "SDXL",
+        text: "futuristic black and silver studio, reflective metallic walls, geometric light panels, dramatic spotlight"
       }
     ]
   }
