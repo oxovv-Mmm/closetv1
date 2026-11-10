@@ -617,7 +617,7 @@ window.outfits = [
 
     clothes: [
       {
-        title: "white and pastel pink elegant prince outfit",
+        title: "elegant futuristic sniper outfit",
         model: "SDXL",
         text: "elegant futuristic sniper outfit, long asymmetrical black and deep purple tactical coat, translucent cloak layers, sleek armored bodice, glowing optical circuitry, oversized high-tech hood, floating holographic targeting lenses around the head, thin energy cables connecting the coat to the weapon, sharp geometric armor pieces, elegant thigh armor, futuristic long boots, mysterious fantasy sniper aesthetic,"
       }
