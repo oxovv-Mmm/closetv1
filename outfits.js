@@ -817,5 +817,37 @@ window.outfits = [
         text: "cute pastel idol stage, fluffy clouds, oversized pastel balloons,soft sparkling lights, floating hearts and stars,dreamy colorful concert atmosphere, adorable animal-themed decorations"
       }
     ]
+  },
+
+    {
+    id: "work-028",
+    name: "〰️🖤",
+    category: "女の子",
+    description: "足長つよつよ好",
+    image: "longleg.png",
+
+    clothes: [
+      {
+        title: "cropped black leather jacket",
+        model: "SDXL",
+        text: "cropped black leather jacket, fitted vivid rose pink satin corset top, high-waisted black leather pants, silver chain belt, black platform boots, silver hoop earrings, black leather gloves"
+     }
+    ],
+
+    composition: [
+      {
+        title: "walking toward the viewer",
+        model: "SDXL",
+        text: "walking toward the viewer, long coat flowing behind her, one hand inside her coat pocket, intense eye contact, low angle, full body, dynamic walking pose, fashion magazine cover composition,"
+      }
+    ],
+
+    background: [
+      {
+        title: "rainy city street at night",
+        model: "SDXL",
+        text: "rainy city street at night, black glass skyscrapers, blurred white street lights, wet pavement reflections, cinematic atmosphere"
+      }
+    ]
   }
 ];
