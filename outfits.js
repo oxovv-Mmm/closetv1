@@ -806,8 +806,7 @@ window.outfits = [
       {
         title: "fluffy animal idol costume, cute cozy idol outfit",
         model: "SDXL",
-        text: "fluffy animal idol costume, cute cozy idol outfit,soft white and pastel pink color palette,cropped fluffy hooded jacket, oversized animal hood,long rabbit ears, fluffy hood lining, soft plush texture,cute fitted crop top underneath,very short fluffy shorts, fluffy fur trim around the hem,large fluffy rabbit tail attached to the back,fluffy wrist warmers, soft fur details,cute white short boots with fluffy trim,
-small ribbons and heart-shaped decorations,"
+        text: "fluffy animal idol costume, cute cozy idol outfit,soft white and pastel pink color palette,cropped fluffy hooded jacket, oversized animal hood,long rabbit ears, fluffy hood lining, soft plush texture,cute fitted crop top underneath,very short fluffy shorts, fluffy fur trim around the hem,large fluffy rabbit tail attached to the back,fluffy wrist warmers, soft fur details,cute white short boots with fluffy trim,small ribbons and heart-shaped decorations,"
      }
     ],
 
