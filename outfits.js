@@ -824,7 +824,7 @@ window.outfits = [
     name: "〰️🖤",
     category: "女の子",
     description: "足長つよつよ好",
-    image: "longleg.png",
+    image: "leathercoat.png",
 
     clothes: [
       {
