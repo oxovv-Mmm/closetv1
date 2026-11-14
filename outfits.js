@@ -880,7 +880,6 @@ window.outfits = [
     ]
   },
 
-  
   {
     id: "work-030",
     name: "🐈‍⬛💰",
@@ -909,6 +908,39 @@ window.outfits = [
         title: "arabian city at night,ornate palace rooftops",
         model: "SDXL",
         text: "arabian city at night,ornate palace rooftops,crescent moon,star-filled sky,glowing golden windows,hanging lanterns,distant domes and towers,mysterious blue night atmosphere"
+      }
+    ]
+  },
+
+    {
+    id: "work-031",
+    name: "👼🏻໒꒱· ﾟ",
+    category: "女の子",
+    description: "Collection Name",
+    image: "Angel.PNG",
+
+    clothes: [
+      {
+        title: "white angelic ceremonial clothing",
+        model: "SDXL",
+        text: "white angelic ceremonial clothing, flowing ivory robe, silver embroidery, long trailing fabric, delicate lace, white feathered wings gradually turning black, cracked halo breaking apart into floating fragments
+"
+      }
+    ],
+
+    composition: [
+      {
+        title: "dynamic falling pose",
+        model: "SDXL",
+        text: "dynamic falling pose, body falling downward through the clouds, one hand desperately reaching upward toward heaven, tearful eyes looking toward the light, flowing hair and fabric, wings spread unevenly"
+      }
+    ],
+
+    background: [
+      {
+        title: "vast heavenly sky",
+        model: "SDXL",
+        text: "vast heavenly sky, golden light far above, dark abyss below, clouds separating around the falling angel, white feathers and fragments of the halo falling alongside them"
       }
     ]
   }
