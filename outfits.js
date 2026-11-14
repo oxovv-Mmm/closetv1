@@ -912,7 +912,7 @@ window.outfits = [
     ]
   },
 
-    {
+  {
     id: "work-031",
     name: "👼🏻໒꒱· ﾟ",
     category: "女の子",
