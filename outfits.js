@@ -760,9 +760,6 @@ window.outfits = [
     ]
   },
 
-  
-
-
   {
     id: "work-026",
     name: "🎪✨",
@@ -850,8 +847,6 @@ window.outfits = [
       }
     ]
   },
-
-  
 
   {
     id: "work-029",
