@@ -923,8 +923,7 @@ window.outfits = [
       {
         title: "white angelic ceremonial clothing",
         model: "SDXL",
-        text: "white angelic ceremonial clothing, flowing ivory robe, silver embroidery, long trailing fabric, delicate lace, white feathered wings gradually turning black, cracked halo breaking apart into floating fragments
-"
+        text: "white angelic ceremonial clothing, flowing ivory robe, silver embroidery, long trailing fabric, delicate lace, white feathered wings gradually turning black, cracked halo breaking apart into floating fragments"
       }
     ],
 
