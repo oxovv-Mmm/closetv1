@@ -883,5 +883,37 @@ window.outfits = [
         text: "futuristic black and silver studio, reflective metallic walls, geometric light panels, dramatic spotlight"
       }
     ]
+  },
+
+  
+  {
+    id: "work-030",
+    name: "🐈‍⬛💰",
+    category: "女の子",
+    description: "泥棒猫",
+    image: "thiefneco.PNG",
+
+    clothes: [
+      {
+        title: "black cat arabian thief outfit",
+        model: "SDXL",
+        text: "black cat arabian thief outfit,black, deep purple and antique gold color scheme,arabian fantasy fashion,cat-inspired design,black cat ears,ornate black and gold face veil,cropped embroidered top,fitted corset-like waist,layered asymmetrical skirt,multiple sheer chiffon fabrics,long flowing hip scarf,gold coin decorations,ornate waist chains,gold jewelry,cat-shaped ornaments,fingerless gloves,thigh straps,lightweight boots,mysterious and elegant,exotic fantasy thief,luxurious detailed embroidery"
+     }
+    ],
+
+    composition: [
+      {
+        title: "dynamic crouching pose on a rooftop",
+        model: "SDXL",
+        text: "dynamic crouching pose on a rooftop,one hand touching the roof,body slightly leaning forward,looking back over the shoulder,long veil and translucent fabrics dramatically blowing in the wind,cat-like agile posture,dynamic perspective,full body "
+      }
+    ],
+
+    background: [
+      {
+        title: "arabian city at night,ornate palace rooftops: "SDXL",
+        text: "arabian city at night,ornate palace rooftops,crescent moon,star-filled sky,glowing golden windows,hanging lanterns,distant domes and towers,mysterious blue night atmosphere"
+      }
+    ]
   }
 ];
