@@ -911,7 +911,8 @@ window.outfits = [
 
     background: [
       {
-        title: "arabian city at night,ornate palace rooftops: "SDXL",
+        title: "arabian city at night,ornate palace rooftops",
+        model: "SDXL",
         text: "arabian city at night,ornate palace rooftops,crescent moon,star-filled sky,glowing golden windows,hanging lanterns,distant domes and towers,mysterious blue night atmosphere"
       }
     ]
