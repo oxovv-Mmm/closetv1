@@ -1327,4 +1327,20 @@ window.outfits = [
       }
     ]
   },
+
+  {
+    id: "work-046",
+    name: "🪢🖤",
+    category: "男の子",
+    description: "縛り",
+    image: "sibaru.PNG",
+
+    clothes: [
+      {
+        title: "hands tied together above head",
+        model: "SDXL",
+        text: "solo, hands tied together above head,wrists bound together,rope around wrists only,both hands raised overhead,arms extended upward,rope binding wrists only,visible wrists,natural arms,relaxed fingers,looking at viewer,upper body,dramatic angle,cinematic lighting"
+      }
+    ]
+  },
 ];
