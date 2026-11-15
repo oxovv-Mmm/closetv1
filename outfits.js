@@ -1167,4 +1167,20 @@ window.outfits = [
       }
     ]
   },
+
+  {
+    id: "work-039",
+    name: "🤍💉",
+    category: "女の子",
+    description: "ナース",
+    image: "sexynurse.png",
+
+    clothes: [
+      {
+        title: "pink and white nurse outfit",
+        model: "SDXL",
+        text: "pink and white nurse outfit,white frilled collar,puff sleeves,fitted bodice,high-cut leg design,ruffled hip details,pink ribbon bow,white lace trim,white thighhigh socks,pink garterribbons,white high heels,cute nurse cap,heart-shaped buttons,pearl details,cute, frilly, sweet"
+      }
+    ]
+  }
 ];
