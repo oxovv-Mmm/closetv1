@@ -1134,5 +1134,21 @@ window.outfits = [
         text: "antique European mansion, stained glass windows, vintage flower vases, dried flowers, old paintings, lace curtains, warm candlelight,elegant romantic composition, soft vintage atmosphere"
       }
     ]
+  },
+
+   {
+    id: "work-038",
+    name: "💛💙",
+    category: "男の子",
+    description: "レトロポップ？",
+    image: "Retropop.png",
+
+    clothes: [
+      {
+        title: "fallen angel formal coat",
+        model: "SDXL",
+        text: "yellow and blue outfit,retro fashion,yellow blouse,white peter pan collar,blue polka dot bow tie,puff sleeves,blue high waist shorts,white frilled shorts hem,white knee socks,blue mary jane shoes,large blue polka dot bow on back,yellow ribbon,retro boy fashion,cute, colorful, vintage"
+      }
+    ]
   }
 ];
