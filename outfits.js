@@ -1204,7 +1204,7 @@ window.outfits = [
     id: "work-042",
     name: "☁️🐰",
     category: "男の子",
-    description: "",
+    description: "もこもこうさちゃん",
     image: "mokobunny.png",
 
     clothes: [
@@ -1262,5 +1262,37 @@ window.outfits = [
         text: "ornate gothic bedroom, black velvet curtains, antique furniture, roses, soft dramatic lighting, luxurious dollhouse atmosphere"
       }
     ]
-  }
+  },
+  
+  {
+    id: "work-044",
+    name: "☁️🧸",
+    category: "男の子",
+    description: "もこもこくまさん",
+    image: "mokokuma.png",
+
+    clothes: [
+      {
+        title: "cute masculine teddy bear outfit",
+        model: "SDXL",
+        text: "cute masculine teddy bear outfit, fluffy cream and brown faux fur, oversized bear ear hood, soft fluffy cropped jacket, huge cream ribbon at the neck, puff sleeves, extremely fluffy ruffled shorts, layered cream frills, bear paw details, fluffy leg warmers, cute brown mary jane shoes, tiny round bear tail, soft plush texture, cozy cute aesthetic"
+      }
+    ],
+
+    composition: [
+      {
+        title: "curled up comfortably on a huge fluffy rug",
+        model: "SDXL",
+        text: "curled up comfortably on a huge fluffy rug, relaxed sleepy pose, knees slightly drawn up, hugging a large teddy bear plushie, soft sleepy expression, full body"
+      }
+    ],
+
+    background: [
+      {
+        title: "cozy bedroom",
+        model: "SDXL",
+        text: "cozy bedroom, oversized cushions, blankets, plush toys scattered around, warm afternoon sunlight, soft dreamy atmosphere"
+      }
+    ]
+  },
 ];
