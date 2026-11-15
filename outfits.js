@@ -974,5 +974,37 @@ window.outfits = [
         text: "fantasy candy kingdom,giant cakes,macarons,lollipops,floating sweets,pastel clouds,sparkling magical atmosphere,"
       }
     ]
+  },
+
+   {
+    id: "work-033",
+    name: "❄️👑",
+    category: "男の子",
+    description: "水色王子様",
+    image: "ice.PNG",
+
+    clothes: [
+      {
+        title: "elegant ice prince outfit",
+        model: "SDXL",
+        text: "elegant ice prince outfit,white, silver, and ice blue color palette,ornate long prince coat,high collar,silver embroidery,crystal decorations,layered translucent fabric,fur trim,long flowing cape,snowflake ornaments,fitted white trousers,elegant boots,frozen fantasy aesthetic,beautiful and noble,"
+      }
+    ],
+
+    composition: [
+      {
+        title: "full body",
+        model: "SDXL",
+        text: "full body,standing on a frozen lake,one hand extended outward,creating glowing ice magic,cape flowing in the wind,calm expression,"
+      }
+    ],
+
+    background: [
+      {
+        title: "frozen fantasy kingdom",
+        model: "SDXL",
+        text: "frozen fantasy kingdom,ice palace,falling snow,floating ice crystals,soft blue magical light,aurora in the night sky,"
+      }
+    ]
   }
 ];
