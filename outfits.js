@@ -1169,7 +1169,7 @@ window.outfits = [
   },
 
   {
-    id: "work-039",
+    id: "work-040",
     name: "🤍💉",
     category: "女の子",
     description: "ナース",
