@@ -1038,5 +1038,101 @@ window.outfits = [
         text: "abandoned underground fashion studio, graffiti-covered walls, old speakers, scattered vinyl records, red neon light, dark industrial atmosphere"
       }
     ]
+  },
+
+  {
+    id: "work-035",
+    name: "🖤໒꒱· ﾟ",
+    category: "男の子",
+    description: "堕天使",
+    image: "Angelblack.png",
+
+    clothes: [
+      {
+        title: "fallen angel formal coat",
+        model: "SDXL",
+        text: "fallen angel formal coat, elegant black and ivory long coat, high collar, fitted waistcoat, intricate silver embroidery, torn coat tails, black gloves, dark cravat, broken silver halo ornament, large black feather wings"
+      }
+    ],
+
+    composition: [
+      {
+        title: "upper body",
+        model: "SDXL",
+        text: "upper body, slightly low angle, one hand reaching toward viewer, other hand holding his chest, wings partially spread behind him, fallen feathers drifting through the air, calm sorrowful expression, looking at viewer"
+      }
+    ],
+
+    background: [
+      {
+        title: "ruined gothic cathedral",
+        model: "SDXL",
+        text: "ruined gothic cathedral, broken stained glass windows, moonlight streaming through the ceiling, fallen white feathers, dark clouds, scattered candles, faint mist, sacred yet ominous atmosphere"
+      }
+    ]
+  },
+
+  {
+    id: "work-036",
+    name: "🃏🎩",
+    category: "男の子",
+    description: "マジシャン",
+    image: "Magician.png",
+
+    clothes: [
+      {
+        title: "dark circus ringmaster outfit",
+        model: "SDXL",
+        text: "dark circus ringmaster outfit, black and crimson military-inspired tailcoat, ornate gold embroidery, high collar, fitted waistcoat, decorative shoulder details, black trousers, tall boots, black top hat with crimson ribbon, elegant gloves, ornate cane"
+      }
+    ],
+
+    composition: [
+      {
+        title: "upper body",
+        model: "SDXL",
+        text: "upper body, dynamic three-quarter view, leaning slightly toward viewer, one hand gripping an ornate cane, other hand extended outward, confident mischievous smile, dramatic theatrical pose"
+      }
+    ],
+
+    background: [
+      {
+        title: "abandoned circus tent at night",
+        model: "SDXL",
+        text: "abandoned circus tent at night, torn crimson curtains, vintage circus stage, broken spotlights, scattered playing cards, hanging decorations, faint fog, dark carnival atmosphere"
+      }
+    ]
+  },
+
+  {
+    id: "work-037",
+    name: "🪑💐",
+    category: "男の子",
+    description: "ヴィンテージ風",
+    image: "vinnte-zi.png",
+
+    clothes: [
+      {
+        title: "vintage floral fashion",
+        model: "SDXL",
+        text: "vintage floral fashion, high-neck ruffled shirt, dusty rose waistcoat, antique floral embroidery, fitted double-breasted jacket, high-waisted tailored trousers, lace cuffs, cameo brooch, antique key necklace, floral ribbon pinned to the lapel, vintage lace-up boots,"
+      }
+    ],
+
+    composition: [
+      {
+        title: "sitting sideways on an antique chair",
+        model: "SDXL",
+        text: "sitting sideways on an antique chair, holding a large bouquet in one hand, looking over his shoulder,"
+      }
+    ],
+
+    background: [
+      {
+        title: "antique European mansion",
+        model: "SDXL",
+        text: "antique European mansion, stained glass windows, vintage flower vases, dried flowers, old paintings, lace curtains, warm candlelight,elegant romantic composition, soft vintage atmosphere"
+      }
+    ]
   }
 ];
