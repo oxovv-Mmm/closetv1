@@ -942,5 +942,37 @@ window.outfits = [
         text: "vast heavenly sky, golden light far above, dark abyss below, clouds separating around the falling angel, white feathers and fragments of the halo falling alongside them"
       }
     ]
+  },
+
+   {
+    id: "work-032",
+    name: "❄️👑",
+    category: "男の子",
+    description: "氷の王子様",
+    image: "ice.PNG",
+
+    clothes: [
+      {
+        title: "elegant ice prince outfit,white",
+        model: "SDXL",
+        text: "elegant ice prince outfit,white, silver, and ice blue color palette,ornate long prince coat,high collar,silver embroidery,crystal decorations,layered translucent fabric,fur trim,long flowing cape,snowflake ornaments,fitted white trousers,elegant boots,frozen fantasy aesthetic,beautiful and noble,"
+      }
+    ],
+
+    composition: [
+      {
+        title: "full body",
+        model: "SDXL",
+        text: "full body,standing on a frozen lake,one hand extended outward,creating glowing ice magic,cape flowing in the wind,calm expression,"
+      }
+    ],
+
+    background: [
+      {
+        title: "frozen fantasy kingdom",
+        model: "SDXL",
+        text: "frozen fantasy kingdom,ice palace,falling snow,floating ice crystals,soft blue magical light,aurora in the night sky,"
+      }
+    ]
   }
 ];
