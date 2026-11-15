@@ -1182,5 +1182,85 @@ window.outfits = [
         text: "pink and white nurse outfit,white frilled collar,puff sleeves,fitted bodice,high-cut leg design,ruffled hip details,pink ribbon bow,white lace trim,white thighhigh socks,pink garterribbons,white high heels,cute nurse cap,heart-shaped buttons,pearl details,cute, frilly, sweet"
       }
     ]
+  },
+
+  {
+    id: "work-041",
+    name: "🤍💉",
+    category: "男の子",
+    description: "ナース",
+    image: "sexynurseboy.png",
+
+    clothes: [
+      {
+        title: "pink and white nurse outfit",
+        model: "SDXL",
+        text: "cute male nurse,pink and white nurse outfit,white frilled collar,short puff sleeves,fitted top,high-cut short pants,ruffled hip details,pink ribbon bow,white lace trim,white thighhigh socks,white high heels,cute nurse cap,heart-shaped buttons,pearls,cute, frilly"
+      }
+    ]
+  },
+
+  {
+    id: "work-042",
+    name: "☁️🐰",
+    category: "男の子",
+    description: "",
+    image: "mokobunny.png",
+
+    clothes: [
+      {
+        title: "fluffy white bunny boy outfit",
+        model: "SDXL",
+        text: "fluffy white bunny boy outfit, cute masculine fashion, white ruffled blouse, oversized pale pink bow tie, puff sleeves, layered frills, frilled shorts, fluffy white fabric, pink ribbon details, bunny ears hood, small fluffy bunny tail, white thigh-high socks with lace trim, cute mary jane shoes, soft pastel pink and white color palette"
+      }
+    ],
+
+    composition: [
+      {
+        title: "lying down casually on his back",
+        model: "SDXL",
+        text: "lying down casually on his back, relaxed carefree pose, one knee slightly bent, arms resting loosely beside him, innocent relaxed expression, slightly tousled hair, full body, eye-level view,"
+      }
+    ],
+
+    background: [
+      {
+        title: "cozy pastel bedroom",
+        model: "SDXL",
+        text: "cozy pastel bedroom, fluffy rug, soft cushions, scattered ribbons and plush toys, soft warm lighting, cute dreamy atmosphere"
+      }
+    ]
+  },
+ 
+  {
+    id: "work-043",
+    name: "🖤🎶",
+    category: "男の子",
+    description: "ゴシック",
+    image: "Gothicboy.png",
+
+    clothes: [
+      {
+        title: "gothic cute male outfit",
+        model: "SDXL",
+        text: "gothic cute male outfit, black and white ruffled high-leg bodysuit, extremely detailed layered frills around the leg openings, large black waist ribbon, white lace trim, puff sleeves, ornate lace collar, decorative garter straps, heart-shaped cutout on the back, frilled shorts-like lower silhouette, black thigh-high stockings, black platform mary jane shoes, elegant gothic doll aesthetic"
+      }
+    ],
+
+    composition: [
+      {
+        title: "sitting gracefully on a velvet chaise lounge",
+        model: "SDXL",
+        text: "sitting gracefully on a velvet chaise lounge, legs posed neatly to one side, one hand resting beside him, slightly turned body, looking over his shoulder, elegant relaxed expression, full body,"
+      }
+    ],
+
+    background: [
+      {
+        title: "ornate gothic bedroom",
+        model: "SDXL",
+        text: "ornate gothic bedroom, black velvet curtains, antique furniture, roses, soft dramatic lighting, luxurious dollhouse atmosphere"
+      }
+    ]
   }
 ];
