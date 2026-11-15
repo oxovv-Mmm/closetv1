@@ -1006,5 +1006,37 @@ window.outfits = [
         text: "frozen fantasy kingdom,ice palace,falling snow,floating ice crystals,soft blue magical light,aurora in the night sky,"
       }
     ]
+  },
+
+  {
+    id: "work-031",
+    name: "🪑🎶",
+    category: "男の子",
+    description: "パンク？",
+    image: "rockboy.png",
+
+    clothes: [
+      {
+        title: "punk lolita outfit",
+        model: "SDXL",
+        text: "punk lolita outfit, black layered ruffled blouse, detachable side panels, fitted corset-style waistcoat, silver buckles, safety-pin details, chains, striped ribbon, lace cuffs, platform ankle boots, black and crimson color palette, elegant but rebellious"
+      }
+    ],
+
+    composition: [
+      {
+        title: "dynamic three-quarter pose",
+        model: "SDXL",
+        text: "dynamic three-quarter pose, sitting sideways on a chair, one elbow resting on the backrest, confident gaze toward viewer, slightly messy posture, low angle"
+      }
+    ],
+
+    background: [
+      {
+        title: "abandoned underground fashion studio",
+        model: "SDXL",
+        text: "abandoned underground fashion studio, graffiti-covered walls, old speakers, scattered vinyl records, red neon light, dark industrial atmosphere"
+      }
+    ]
   }
 ];
