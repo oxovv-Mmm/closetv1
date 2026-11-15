@@ -1139,7 +1139,7 @@ window.outfits = [
    {
     id: "work-038",
     name: "💛💙",
-    category: "男の子",
+    category: "共通",
     description: "レトロポップ？",
     image: "Retropop.png",
 
@@ -1150,5 +1150,21 @@ window.outfits = [
         text: "yellow and blue outfit,retro fashion,yellow blouse,white peter pan collar,blue polka dot bow tie,puff sleeves,blue high waist shorts,white frilled shorts hem,white knee socks,blue mary jane shoes,large blue polka dot bow on back,yellow ribbon,retro boy fashion,cute, colorful, vintage"
       }
     ]
-  }
+  },
+
+  {
+    id: "work-039",
+    name: "𓆩 ♱ 𓆪",
+    category: "共通",
+    description: "シスター",
+    image: "highlegsister.png",
+
+    clothes: [
+      {
+        title: "fallen angel formal coat",
+        model: "SDXL",
+        text: "black and white gothic nun outfit,black high-neck nun dress,white ruffled collar,white lace trim,long fitted sleeves,white lace cuffs,fitted black bodice,cinched waist,high-cut leotard-style lower bodice,high-leg silhouette,white ruffled hip accents,layered black and white frills,small white ribbon bows,long flowing black skirt panels attached at the sides,ornamental silver cross,black thigh-high stockings,black lace garter details,black stiletto high heels,elegant gothic fashion,dramatic silhouette,feminine, sophisticated, cute,"
+      }
+    ]
+  },
 ];
