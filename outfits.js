@@ -1335,7 +1335,7 @@ window.outfits = [
     description: "縛り",
     image: "sibaru.PNG",
 
-    clothes: [
+    composition: [
       {
         title: "hands tied together above head",
         model: "SDXL",
