@@ -1295,4 +1295,36 @@ window.outfits = [
       }
     ]
   },
+
+  {
+    id: "work-045",
+    name: "🐺🖤",
+    category: "男の子",
+    description: "ゎꩢ",
+    image: "WAN.png",
+
+    clothes: [
+      {
+        title: "cute handsome wolf boy outfit",
+        model: "SDXL",
+        text: "cute handsome wolf boy outfit, black and charcoal gray color palette, black leather ruffled shorts, high-waisted leather shorts, layered black frills along the hem, silver buckle details, black leather harness-style waist belt, fitted sleeveless black top with subtle fur trim, fluffy wolf ears, fluffy wolf tail, black thigh-high socks, black leather ankle boots, small silver chain accessories, cute gothic wolf aesthetic, stylish masculine outfit"
+      }
+    ],
+
+    composition: [
+      {
+        title: "on all fours",
+        model: "SDXL",
+        text: "on all fours, leaning toward the viewer, one hand reaching forward toward the viewer, inviting gesture, playful gentle smile, warm eye contact, slightly tilted head, fluffy wolf ears perked up, wolf tail raised behind him, dynamic perspective, low angle close-up, full body"
+      }
+    ],
+
+    background: [
+      {
+        title: "cozy dark room",
+        model: "SDXL",
+        text: "cozy dark room, soft rug, scattered cushions, subtle moonlight through the window, intimate playful atmosphere"
+      }
+    ]
+  },
 ];
